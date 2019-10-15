@@ -1,0 +1,9 @@
+com\hr\springbootstarter\course\Course.class
+com\hr\springbootstarter\topic\TopicController.class
+com\hr\springbootstarter\course\CourseService.class
+com\hr\CourseApiDataApplication.class
+com\hr\springbootstarter\topic\Topic.class
+com\hr\springbootstarter\course\CourseController.class
+com\hr\springbootstarter\topic\TopicService.class
+com\hr\springbootstarter\topic\TopicRepository.class
+com\hr\springbootstarter\course\CourseRepository.class
